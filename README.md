@@ -10,3 +10,4 @@ People who completed Hacktoberfest'19 using this repository.
 4-Arush Saxena
 5-Tanmaya Yadav
 6-Alexander Peresypkin
+7-Sanduni Ekanayaka
